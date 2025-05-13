@@ -14,7 +14,9 @@
 | 직업/성격 테스트 | 객관적인 성격/직업 테스트 가능한 공간 |
 | 타이머 | 타이머 기능
 
----
+---  
+![image](https://github.com/user-attachments/assets/f0a33cb7-7876-4d22-940d-1f212573d6cf)
+
 
 ## 2. 기능-> 주기능/부가기능  
 주기능:MISSION  
